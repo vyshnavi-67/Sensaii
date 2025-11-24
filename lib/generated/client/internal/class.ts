@@ -22,7 +22,7 @@ const config: runtime.GetPrismaClientConfig = {
       "value": "prisma-client"
     },
     "output": {
-      "value": "C:\\Users\\echir\\sensai\\lib\\generated\\client",
+      "value": "C:\\Users\\lakshmi24\\Downloads\\WEB DEVELOPMENT VYSHU\\Sensaii\\Sensaii\\lib\\generated\\client",
       "fromEnvVar": null
     },
     "config": {
@@ -36,7 +36,7 @@ const config: runtime.GetPrismaClientConfig = {
       }
     ],
     "previewFeatures": [],
-    "sourceFilePath": "C:\\Users\\echir\\sensai\\prisma\\schema.prisma",
+    "sourceFilePath": "C:\\Users\\lakshmi24\\Downloads\\WEB DEVELOPMENT VYSHU\\Sensaii\\Sensaii\\prisma\\schema.prisma",
     "isCustomOutput": true
   },
   "relativePath": "../../../prisma",
@@ -46,6 +46,7 @@ const config: runtime.GetPrismaClientConfig = {
     "db"
   ],
   "activeProvider": "postgresql",
+  "postinstall": false,
   "inlineDatasources": {
     "db": {
       "url": {
